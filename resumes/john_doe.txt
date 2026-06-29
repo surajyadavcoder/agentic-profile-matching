@@ -1,0 +1,39 @@
+Name: John Doe
+Email: john.doe@email.com
+Phone: +91-9876543210
+
+SUMMARY
+Experienced Full Stack Developer with 5 years of experience building scalable web applications.
+Strong expertise in React, Node.js, and cloud technologies.
+
+SKILLS
+- Frontend: React, TypeScript, Redux, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express, Python, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes
+- Tools: Git, CI/CD, Jest, Webpack
+
+EXPERIENCE
+Senior Frontend Developer | TechCorp India | 2021 - Present (3 years)
+- Led React migration from Angular for 500k+ user platform
+- Reduced page load time by 40% using code splitting and lazy loading
+- Mentored team of 4 junior developers
+- Built real-time dashboard using WebSockets
+
+Full Stack Developer | StartupXYZ | 2019 - 2021 (2 years)
+- Developed REST APIs using Node.js/Express serving 1M+ requests/day
+- Implemented authentication with JWT and OAuth2
+- Built CI/CD pipeline using GitHub Actions
+
+EDUCATION
+B.Tech Computer Science | IIT Delhi | 2019
+CGPA: 8.5/10
+
+PROJECTS
+- E-commerce platform with React + Node.js (50k users)
+- Real-time chat app using WebSockets
+- Open source contributor to React ecosystem
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- Meta React Developer Certificate

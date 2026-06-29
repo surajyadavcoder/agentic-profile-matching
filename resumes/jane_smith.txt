@@ -1,0 +1,38 @@
+Name: Jane Smith
+Email: jane.smith@email.com
+Phone: +91-9123456789
+
+SUMMARY
+Frontend Developer with 2 years of experience specializing in React and modern JavaScript.
+Passionate about UI/UX and building accessible web applications.
+
+SKILLS
+- Frontend: React, JavaScript (ES6+), Vue.js, HTML5, CSS3, SASS
+- State Management: Redux, Context API, Vuex
+- Testing: Jest, React Testing Library, Cypress
+- Tools: Git, Figma, Webpack, Vite
+- Basic Backend: Node.js, REST APIs
+
+EXPERIENCE
+Frontend Developer | WebAgency | 2022 - Present (2 years)
+- Built 10+ client websites using React and Vue.js
+- Implemented pixel-perfect UI from Figma designs
+- Integrated third-party APIs (payment, maps, social)
+- Improved SEO scores from 60 to 90+ using Next.js SSR
+
+Junior Developer | FreelanceWork | 2021 - 2022 (1 year)
+- Developed landing pages and small web apps
+- Created responsive designs using CSS Grid and Flexbox
+
+EDUCATION
+B.E. Information Technology | Mumbai University | 2021
+CGPA: 7.8/10
+
+PROJECTS
+- Portfolio website builder (React + Firebase)
+- Weather app with React and OpenWeather API
+- Personal blog with Next.js and MDX
+
+CERTIFICATIONS
+- freeCodeCamp Responsive Web Design
+- Udemy React - The Complete Guide

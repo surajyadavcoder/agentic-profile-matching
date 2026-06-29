@@ -1,0 +1,40 @@
+Name: Rahul Sharma
+Email: rahul.sharma@email.com
+Phone: +91-9000011111
+
+SUMMARY
+Backend Engineer with 4 years of experience building microservices and distributed systems.
+Expert in Python, Go, and cloud-native architectures. Strong system design skills.
+
+SKILLS
+- Languages: Python, Go, Java, SQL
+- Frameworks: FastAPI, Django, Gin, Spring Boot
+- Databases: PostgreSQL, MySQL, MongoDB, Cassandra, Redis
+- Message Queues: Kafka, RabbitMQ, AWS SQS
+- Cloud: AWS (full stack), GCP basics
+- DevOps: Docker, Kubernetes, Terraform, Prometheus, Grafana
+
+EXPERIENCE
+Senior Backend Engineer | Fintech Startup | 2022 - Present (2 years)
+- Designed payment processing microservices handling ₹50Cr/day
+- Built event-driven architecture with Kafka reducing latency by 60%
+- Led migration from monolith to microservices (12 services)
+- Implemented distributed tracing with Jaeger
+
+Backend Developer | E-commerce Company | 2020 - 2022 (2 years)
+- Developed order management system with 99.9% uptime
+- Built recommendation engine using collaborative filtering
+- Optimized DB queries reducing response time from 2s to 200ms
+
+EDUCATION
+B.Tech Computer Science | NIT Trichy | 2020
+CGPA: 9.1/10
+
+PROJECTS
+- Distributed task scheduler in Go
+- Real-time fraud detection system
+- Open source: Python async HTTP client (500+ stars)
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional
+- Certified Kubernetes Administrator (CKA)

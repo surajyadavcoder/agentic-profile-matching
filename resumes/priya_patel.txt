@@ -1,0 +1,39 @@
+Name: Priya Patel
+Email: priya.patel@email.com
+Phone: +91-8877665544
+
+SUMMARY
+Full Stack Developer with 3 years of experience in React and Node.js.
+Passionate about building user-centric applications with clean, maintainable code.
+
+SKILLS
+- Frontend: React, TypeScript, Next.js, Angular
+- Backend: Node.js, Express, GraphQL, REST APIs
+- Databases: MongoDB, PostgreSQL, Firebase
+- Cloud: AWS basics, Heroku, Vercel
+- Tools: Git, Docker basics, Jest, Postman
+
+EXPERIENCE
+Full Stack Developer | Product Company | 2021 - Present (3 years)
+- Built customer portal using React + TypeScript serving 100k users
+- Developed GraphQL API with Node.js and Apollo Server
+- Implemented real-time notifications using Socket.io
+- Reduced bundle size by 35% via tree shaking and code splitting
+
+Junior Developer | IT Services | 2020 - 2021 (1 year)
+- Developed internal tools using React
+- Created REST APIs with Node.js/Express
+- Wrote unit tests achieving 80% code coverage
+
+EDUCATION
+B.Tech IT | VIT Vellore | 2020
+CGPA: 8.2/10
+
+PROJECTS
+- Task management app (React + Node.js + MongoDB)
+- Recipe finder with GraphQL
+- Blog platform with Next.js SSG
+
+CERTIFICATIONS
+- Meta Frontend Developer Certificate
+- MongoDB Developer Certification

@@ -1,0 +1,24 @@
+Name: Amit Kumar
+Email: amit.kumar@email.com
+
+SUMMARY
+Fresher with strong React fundamentals looking for first opportunity.
+Built several personal projects during college.
+
+SKILLS
+- Frontend: React, JavaScript, HTML, CSS
+- Basic: Node.js, MongoDB
+- Tools: Git, VS Code
+
+EXPERIENCE
+Intern | Local Startup | 2024 (3 months)
+- Assisted in building React components
+- Fixed bugs in existing codebase
+
+EDUCATION
+B.Tech CSE | Random College | 2024
+CGPA: 6.5/10
+
+PROJECTS
+- Todo app in React
+- Portfolio website
