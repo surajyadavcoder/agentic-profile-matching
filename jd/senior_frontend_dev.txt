@@ -1,0 +1,41 @@
+Position: Senior Frontend Developer
+Company: TechGrowth Inc.
+Location: Bangalore, India (Hybrid)
+Experience: 3-6 years
+
+JOB DESCRIPTION
+We are looking for a Senior Frontend Developer to join our growing engineering team.
+You will lead the development of our core product's frontend, work closely with designers
+and backend engineers, and mentor junior developers.
+
+MUST-HAVE REQUIREMENTS
+- 3+ years of professional experience with React
+- Strong proficiency in TypeScript
+- Experience with state management (Redux, Zustand, or similar)
+- Proficiency in modern CSS and responsive design
+- Experience with REST APIs and/or GraphQL
+- Strong understanding of web performance optimization
+- Experience with testing frameworks (Jest, React Testing Library)
+- Good communication skills and ability to work in a team
+
+NICE-TO-HAVE
+- Experience with Next.js or similar SSR frameworks
+- Knowledge of Node.js for BFF patterns
+- AWS or cloud platform experience
+- Experience mentoring junior developers
+- Open source contributions
+- Experience with WebSockets or real-time features
+
+RESPONSIBILITIES
+- Lead frontend architecture decisions
+- Build and maintain React components and pages
+- Optimize application performance
+- Code review and mentoring
+- Collaborate with product and design teams
+- Write unit and integration tests
+
+COMPENSATION
+- ₹20-35 LPA based on experience
+- Equity options
+- Health insurance
+- Learning budget
